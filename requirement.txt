@@ -1,0 +1,7 @@
+Requirements
+
+* mediapipe --> V0.8.1 or Later
+* OpenCV 3.4.2 or Later
+* Tensorflow 2.3.0 or Later
+* scikit-learn 0.23.2 or Later  
+* matplotlib 3.3.2 or Later (Only if we want to display the confusion matrix)
